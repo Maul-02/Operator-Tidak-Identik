@@ -1,1 +1,1 @@
-# Operator-Tidak-Identik-Strict-Not-Equal
+# Operator-Tidak-Identik
